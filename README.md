@@ -21,6 +21,4 @@
   - issued on September 2022
   - link https://university.mongodb.com/course_completion/545f0927-ba2f-4118-ac5a-9f85c5abc7b7
 
-555555555555555
-ddfhgfh
-dfdf
+
